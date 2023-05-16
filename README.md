@@ -1,0 +1,76 @@
+{
+
+  "Cancel_Button_Text_Color": "#FFF5003D",
+
+  "Dialog_Background_Color": "#FFFFFFFF",
+
+  "Dialog_Message": "Hii  𝗡𝗜𝗡𝗝𝗔 𝗠𝗢𝗗𝗭 🌟 mod user thanks for using our mod apk if you still not joined our official telegram channel then join now for more updates ",
+
+  "Dialog_Stroke_Color": "#FF00FFFF",
+
+  "Dialog_Title": "Welcome 🙂",
+
+  "Download_Link": "https://t.me/+z4da1wcymVpmODA1",
+
+  "Message_Color": "#FF000000",
+
+  "More_Button_Text_Color": "#FF00FF00",
+
+  "More_Visibility": "INVISIBLE",
+
+  "New_Version": "1.2",
+
+  "Okay_Button_Text": "Join Now",
+
+  "Okay_Button_Text_Color": "#FF00FF00",
+
+  "Preference": "1683901295429",
+
+  "Share_Mod_Text": "No need to fill",
+
+  "Show_Time": "2",
+
+  "Title_Color": "#FF000000",
+
+  "Update_Type": "true",
+
+  "User_Name": "YhxJ0/Dmw6jSrdc0zaqS4g==",
+
+  "Website_Link": "No need to fill",
+
+  "isCancelable": "true"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
